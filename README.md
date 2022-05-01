@@ -11,4 +11,4 @@ The sample dataset was created from spotipy(Spotify's Api).The Data_Extraction.i
 
 **Data Analysis Phase**
 
-After exploratory data analysis, correlations were made on danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence and tempo to decide the best matching similar tracks.The top 5 tracks were taken from this and recommeded to the user.
+After exploratory data analysis, correlations were made on danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence and tempo to decide the best matching similar tracks.The top 5 tracks were taken from this and recommeded to the user. 
